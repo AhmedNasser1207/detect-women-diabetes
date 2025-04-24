@@ -1,8 +1,8 @@
 This project is a simple desktop application built using Python's PySimpleGUI and scikit-learn.
 It predicts whether a female is diabetic based on several medical parameters using Logistic Regression.
 
-![photo1](https://imgur.com/a/xiZBxaM)
-![photo2](https://imgur.com/a/IIDxe2E)
+![App Demo](https://imgur.com/a/cUHCcoE.gif)
+![photo2](https://imgur.com/a/IIDxe2E.gif)
 
 Model: Logistic Regression
 Dataset: Pima Indians Diabetes Database (from Kaggle)
